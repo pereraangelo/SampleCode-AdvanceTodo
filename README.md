@@ -86,7 +86,7 @@ FrontEnd
 
 ## Run the Frontend
 
-- cd todo-backend
+- cd todo-frontend
 - npm run dev
 
 ## API ENDPOINTS METHOD
