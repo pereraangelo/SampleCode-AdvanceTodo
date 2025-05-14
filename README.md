@@ -1,6 +1,7 @@
 # TODO List Application
 
 A full-stack TODO list application built with **React.js (Frontend)** and **Node.js + Express (Backend)**. This project allows users to manage tasks with features like adding, updating, deleting, and marking tasks as complete. It also supports task dependencies and recurring tasks.
+Please Not that this is a sample code to show case best practises in React 
 
 ---
 
